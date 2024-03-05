@@ -3,7 +3,7 @@
 function App() {
   return (
     <h1>
-      chup chutiye
+      ni chl rha
     </h1>
   )
 }
